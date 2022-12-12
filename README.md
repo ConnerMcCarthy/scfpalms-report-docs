@@ -1,10 +1,13 @@
 # SCFPALMS SQL reports
 Documentation for weekly reports and admin tools are included in this repository.
 
-Weekly Reports
+Reports
 - Orientation Course
 - CAIP Course
 - HCOPT Course
+
+- CAIP Pre Feedback 
+- CAIP Post Feedback
 
 Admin Tools
 - List Certificate IDs
