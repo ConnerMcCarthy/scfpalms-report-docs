@@ -1,6 +1,6 @@
 /* Selects information from users that have completed the CAIP course and recieved a certificate in the last week */
 
---Each row contains a user and personal info as columns
+--Each row contains a user with personal info as columns
 SELECT    profile.role AS "Role",
           users.firstname "First Name",
           users.lastname "Last Name",
