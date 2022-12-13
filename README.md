@@ -16,7 +16,7 @@ Documentation and code for weekly reports and admin tools are included in this r
 2. Go to www.scfpalms.com/report/customsql/index.php and click the "Add a new query" button
 3. Enter catagory, query name, and paste the code in the "Query SQL" box
 
-4. Run the "check certificate ID" report at www.scfpalms.com/report/customsql/view.php?id=7
+4. Run the "Check Certificate ID" report at www.scfpalms.com/report/customsql/view.php?id=7
 5. At the bottom of the code, edit "WHERE a.customcertid = 38" with the relevant certificate code
 6. Edit the Run and Email options then save changes.
 
