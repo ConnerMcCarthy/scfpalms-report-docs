@@ -1,5 +1,5 @@
 /* 
-  Selects information from EVER user that has completed the CAIP course and recieved a certificate.
+  Selects information from EVERY user that has completed the CAIP course and recieved a certificate.
   Uses a custom time, course, and name filter.
 
   The ":" character is used with the custom moodle sql plugin. It specifies a user input showed before running the query. 
