@@ -2,9 +2,9 @@
 Documentation for weekly reports and admin tools are included in this repository.
 
 Reports
-- Orientation Course
-- CAIP Course
-- HCOPT Course
+- Orientation Weekly
+- CAIP Weekly
+- HCOPT Weekly
 - CAIP Pre Feedback 
 
 Admin Tools
