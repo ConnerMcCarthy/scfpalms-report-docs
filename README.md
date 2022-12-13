@@ -17,7 +17,7 @@ Documentation and code for weekly reports and admin tools are included in this r
 3. Enter catagory, query name, and paste the code in the "Query SQL" box
 
 4. Run the "check certificate ID" report and copy the code next to the course
-5. At the bottom edit "WHERE a.customcertid = 38" with the relevant certificate code
+5. At the bottom of the code, edit "WHERE a.customcertid = 38" with the relevant certificate code
 6. Edit the Run and Email options then save changes.
 
 ## Moodle Table Information
