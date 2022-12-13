@@ -8,7 +8,7 @@ Documentation and code for weekly reports and admin tools are included in this r
 - CAIP Pre Feedback 
 
 **Admin Tools**
-- List Certificate IDs
+- Check Certificate IDs
 - CAIP All Users w/ Filter
 
 ## Creating Weekly Reports
