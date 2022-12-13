@@ -12,7 +12,7 @@ Documentation and code for weekly reports and admin tools are included in this r
 - CAIP All Users w/ Filter
 
 ## Creating Weekly Reports
-1. Copy code from the CAIP weekly report on scfpalms.com
+1. Copy code from the CAIP weekly report at www.scfpalms.com/report/customsql/edit.php?id=1
 2. Go to www.scfpalms.com/report/customsql/index.php and click the "Add a new query" button
 3. Enter catagory, query name, and paste the code in the "Query SQL" box
 
