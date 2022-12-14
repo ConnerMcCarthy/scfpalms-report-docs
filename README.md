@@ -1,5 +1,5 @@
 # SCFPALMS SQL reports
-Documentation and code for weekly reports and admin tools are included in this repository.
+Documentation and code for weekly reports and admin tools are included in this repository. Additional info below.
 
 **Reports**
 - Orientation Weekly - www.scfpalms.com/report/customsql/view.php?id=16
