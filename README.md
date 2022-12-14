@@ -2,14 +2,14 @@
 Documentation and code for weekly reports and admin tools are included in this repository.
 
 **Reports**
-- Orientation Weekly
-- CAIP Weekly
-- HCOPT Weekly
-- CAIP Pre Feedback 
+- Orientation Weekly - www.scfpalms.com/report/customsql/view.php?id=16
+- CAIP Weekly - www.scfpalms.com/report/customsql/view.php?id=1
+- HCOPT Weekly - www.scfpalms.com/report/customsql/view.php?id=8
+- CAIP Pre Feedback - www.scfpalms.com/report/customsql/view.php?id=11
 
 **Admin Tools**
-- Check Certificate IDs
-- CAIP All Users w/ Filter
+- Check Certificate IDs - www.scfpalms.com/report/customsql/view.php?id=7
+- All Users w/ Filter - www.scfpalms.com/report/customsql/edit.php?id=9
 
 ## Creating Weekly Reports
 1. Copy SQL code from the CAIP weekly report at www.scfpalms.com/report/customsql/edit.php?id=1
