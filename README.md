@@ -1,4 +1,4 @@
-# SCFPALMS SQL reports
+# SCFPALMS Weekly Reports
 Documentation and code for weekly reports and admin tools are included in this repository. Additional info below.
 
 **Reports**
@@ -12,9 +12,8 @@ Documentation and code for weekly reports and admin tools are included in this r
 - All Users w/ Filter - www.scfpalms.com/report/customsql/edit.php?id=9
 
 ---
-#Maintanence
-## Moodle SQL Information
-- Plugin documentation at www.moodle.org/plugins/report_customsql
+# Maintanence
+- SQL plugin documentation at www.moodle.org/plugins/report_customsql
 - List of tables and column names in the SCFPALMS database can be found at www.scfpalms.com/report/customsql/view.php?id=19
 - The SQL plugin used requires removing the "mdl_" prefix from tables names. So mdl_user becomes {user} 
 
@@ -22,6 +21,7 @@ Commonly used tables:
 - {user} - User info
 - {user_info_data} - Custom profile field info
 - {customcert_issues} - List of completed certificates
+- {courses}
 
 ## Creating Weekly Reports
 1. Copy SQL code from the CAIP weekly report at www.scfpalms.com/report/customsql/edit.php?id=1
