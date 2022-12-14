@@ -11,7 +11,8 @@ Documentation and code for weekly reports and admin tools are included in this r
 - Check Certificate IDs - www.scfpalms.com/report/customsql/view.php?id=7
 - All Users w/ Filter - www.scfpalms.com/report/customsql/edit.php?id=9
 
-## Moodle Table Information
+## Moodle SQL Information
+- Plugin documentation at www.moodle.org/plugins/report_customsql
 - List of tables and column names in the SCFPALMS database can be found at www.scfpalms.com/report/customsql/view.php?id=19
 - The SQL plugin used requires removing the "mdl_" prefix from tables names. So mdl_user becomes {user} 
 
