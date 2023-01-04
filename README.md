@@ -8,7 +8,7 @@ Documentation and code for weekly reports and admin tools are included in this r
 - CAIP Pre Feedback - www.scfpalms.com/report/customsql/view.php?id=11
 
 **Admin Tools**
-- Check Certificate IDs - www.scfpalms.com/report/customsql/view.php?id=7
+- Check Course Name and ID - www.scfpalms.com/report/customsql/view.php?id=7
 - All Users w/ Filter - www.scfpalms.com/report/customsql/edit.php?id=9
 
 ---
